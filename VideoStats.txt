@@ -1,0 +1,18 @@
+Start date: 20	7	2020
+End Date:   6	10	2020
+Total Days being processed: 79
+
+
+	Views		Likes		Dislikes
+	-----------------------------------------
+Total:  366030		164531		82931
+
+Average: 4633.29	2082.67		1049.76
+
+
+Most likes: 8197	    Day: 34 		Date: 22.8.2020
+Second most likes: 5852	    Day: 19		Date: 7.8.2020
+
+
+Most Views: 11107		Day: 19        Date: 7.8.2020
+Second most views: 9853		Day: 18		Date: 6.8.2020
